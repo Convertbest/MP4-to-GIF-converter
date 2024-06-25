@@ -22,7 +22,7 @@ To convert your MP4 files to GIF animations, simply follow these steps:
 
 Create captivating GIFs with ease, using our sophisticated conversion features!
 
-## Video Parameters
+## GIF Parameters
 
 - **Resolution**: Select from a range of resolutions, such as 1080p or 4K, to achieve the desired clarity and detail in your GIFs.
 - **Frame Rate**: Choose a frame rate from 5fps to 30fps to control the smoothness of your GIF animations. Lower frame rates are great for smaller, simpler GIFs, while higher rates provide fluid motion.
